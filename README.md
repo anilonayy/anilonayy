@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anıl</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Ne Düşünüyor?](https://www.nedusunuyor.org/)
 
-- 🌱 I’m currently learning **c#**
+- 🌱 I’m currently learning **.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/cengizhan-anil-onay/](https://www.linkedin.com/in/cengizhan-anil-onay/)
 
