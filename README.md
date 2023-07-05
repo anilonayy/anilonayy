@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Back-end developer from Turkey</h3>
 
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **.NET Core** & **Angular**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/cengizhan-anil-onay/](https://www.linkedin.com/in/cengizhan-anil-onay/)
 
-- 💬 Ask me about **php,c#,.net,web technologies,sql**
+- 💬 Ask me about **php,c#,.net,web technologies,sql,angular**
 
 - 📫 How to reach me **cengizhananilonay@gmail.com**
 
