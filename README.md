@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Back-end developer from Turkey</h3>
 
 
-- 🌱 I’m currently learning **.NET Core** & **Angular**
+- 🌱 I’m currently learning **.NET Core** & **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/cengizhan-anil-onay/](https://www.linkedin.com/in/cengizhan-anil-onay/)
 
