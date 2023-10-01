@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Anil</h1>
-<h3 align="center">A passionate Back-end developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Anıl</h1>
+<h3 align="center">A passionate Software Developer from Turkey</h3>
 
 
-- 🌱 I’m currently learning **.NET Core** & **Vue.js**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/cengizhan-anil-onay/](https://www.linkedin.com/in/cengizhan-anil-onay/)
 
-- 💬 Ask me about **php,c#,.net,web technologies,sql,angular**
+- 💬 Ask me about **php,c#,.net ef,web technologies,sql**
 
 - 📫 How to reach me **cengizhananilonay@gmail.com**
 
