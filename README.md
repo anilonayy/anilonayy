@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anıl</h1>
-<h3 align="center">A passionate Software Developer from Turkey</h3>
-
 
 - 🌱 I’m currently learning **Laravel**
 
