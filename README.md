@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/cengizhan-anil-onay/](https://www.linkedin.com/in/cengizhan-anil-onay/)
 
-- 💬 Ask me about **php,c#,.net ef,web technologies,sql**
+- 💬 Ask me about **php,laravel,mysql,vue,javascript,tailwind**
 
 - 📫 How to reach me **cengizhananilonay@gmail.com**
 
