@@ -21,10 +21,6 @@ A small, production-ready circuit breaker for Go. Sliding-window failure trackin
 VS Code extension that turns Jira keys in code into links, with status, assignee and QA on hover.
 <sub>TypeScript · VS Code API</sub>
 
-**[go-temporal-cronjobs-and-batch-processing-with-gorm](https://github.com/anilonayy/go-temporal-cronjobs-and-batch-processing-with-gorm)**
-Reference project for Temporal in Go: timers, child workflows, cron schedules, signals and parallel batch activities.
-<sub>Go · Temporal · GORM</sub>
-
 **[mhrs-appointment-cli](https://github.com/anilonayy/mhrs-appointment-cli)**
 Containerised CLI that watches Turkey's national hospital booking system and books the first slot matching your filters.
 <sub>Go · Docker</sub>
